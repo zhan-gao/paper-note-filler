@@ -1,0 +1,7 @@
+{
+  "folderLocation": "0-inbox/Paper Inbox",
+  "fileNaming": "all-title-terms",
+  "openAIKey": "N/A",
+  "openAIModel": "gpt-4o-mini",
+  "openAIEndpoint": "https://api.openai.com/v1/chat/completions"
+}
